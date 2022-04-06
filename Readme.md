@@ -7,3 +7,4 @@
 I am just adding some text here
 
 
+Adding some text so that  can do a commit from comand line with a message 
